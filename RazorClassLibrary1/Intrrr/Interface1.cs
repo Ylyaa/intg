@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace intg.Intrrr
+namespace Matematics.Intrrr
 {
     interface ICalcult
     {
-        double Calcul(int count, double upLim, double downLim, Func<double, double> integral, out double time);
+        double Calcul(int count, double upLim, double downLim, Func<double, double> integral);
     }
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intg", "intg\intg.csproj", "{852B44C5-4B11-4536-A2A6-D482DA9D1AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "intg", "intg\intg.csproj", "{852B44C5-4B11-4536-A2A6-D482DA9D1AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary1", "RazorClassLibrary1\RazorClassLibrary1.csproj", "{45849285-BA93-4D43-BBB1-BDA877E24F9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{852B44C5-4B11-4536-A2A6-D482DA9D1AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852B44C5-4B11-4536-A2A6-D482DA9D1AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852B44C5-4B11-4536-A2A6-D482DA9D1AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45849285-BA93-4D43-BBB1-BDA877E24F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45849285-BA93-4D43-BBB1-BDA877E24F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45849285-BA93-4D43-BBB1-BDA877E24F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45849285-BA93-4D43-BBB1-BDA877E24F9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
